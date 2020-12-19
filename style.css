@@ -62,3 +62,7 @@ p{
 .navicons a{
     margin-left: 40px;
 }
+.contact a{
+    color: blue;
+    text-decoration: none;
+}
