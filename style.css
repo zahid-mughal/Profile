@@ -52,3 +52,6 @@ p{
 .contact, .navicons{
     flex: 1;
 }
+.navicons{
+    text-align: right;
+}
