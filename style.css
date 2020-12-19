@@ -16,9 +16,14 @@ html{
     font-family: circular std, sans-serif;
     font-weight: 100;
 }
-body{ background-color: aqua;
+body{ 
     width: 65%;
     margin: auto;
+    background-image: url(bg-white.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 h1{
     font-size: 40px;
