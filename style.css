@@ -49,3 +49,6 @@ p{
     align-items: center;
     height: 100px;
 }
+.contact, .navicons{
+    flex: 1;
+}
