@@ -58,5 +58,7 @@ p{
 .navicons a, .contact a, .contact img{
     display: inline-block;
     vertical-align: middle;
-
+}
+.contact a{
+    margin-left: 40px;
 }
