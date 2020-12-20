@@ -77,3 +77,33 @@ p{
 .blue{
     color: blue;
 }
+
+/* -------Landing-------*/
+
+.landing{
+    height: 100vh;
+    position: relative;
+}
+.landingwrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
+ul{
+    list-style: none;
+    margin-top: 30px;
+    line-height: 30px;
+}
+.landingl{
+    margin-top: 4em;
+}
+.landingr{
+    margin-top: 4em;
+}
+.scroll{
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
+    bottom: 160px;
+}
