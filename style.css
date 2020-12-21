@@ -107,3 +107,14 @@ ul{
     right: 0;
     bottom: 160px;
 }
+/* -------Skill-------*/
+.skill{
+    text-align: center;
+    margin-bottom: 20em;
+}
+.skill p{
+    margin-bottom: 30px;
+}
+.skill img{
+    margin: 2px;
+}
